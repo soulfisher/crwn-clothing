@@ -30,6 +30,7 @@ const firebaseConfig = {
 };
 
 // Initialize Firebase
+/* eslint-disable no-unused-vars */
 const firebaseApp = initializeApp(firebaseConfig);
 
 const googleProvider = new GoogleAuthProvider();
