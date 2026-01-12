@@ -1,4 +1,5 @@
 import React from "react";
+/* eslint-disable no-unused-vars */
 import { render } from "react-dom";
 import ReactDOM from "react-dom/client";
 import { BrowserRouter } from "react-router-dom";
